@@ -1,3 +1,6 @@
 ### Breezer
 
-Breezer is a part cooling duct for SecKit printers using remote blowers. As the duct and the blower are connected by an air hose, the choice of blowers can be versitile.
+Breezers are the part cooling ducts for SecKit printers. 
+
+Breezer14: for NEMA14 E stepper
+Breezer17: for NEMA17 E stepper
