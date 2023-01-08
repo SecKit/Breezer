@@ -2,5 +2,6 @@
 
 Breezers are the part cooling ducts for SecKit printers. 
 
-Breezer14: for NEMA14 E stepper
-Breezer17: for NEMA17 E stepper
+
+- Breezer14 is for NEMA14 round E stepper
+- Breezer17 is for NEMA17 E stepper
